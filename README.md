@@ -5,5 +5,5 @@ LOCAL DEPLOYMENT
 
 1. Clone the GIT repository.
 2. Install dependencies in requirement.txt: "pip3 install -r requirements.txt"
-3.Start the application: "python3 face.py"
+3. Start the application: "python3 face.py"
 4. Go to your local host server mentioned in the terminal.
